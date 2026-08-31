@@ -23,3 +23,10 @@ Essa linha eu adicionei diretamente no site! *QUE IMPRESSIONANTE!*
 - [x] a
 - [x] b
 - [ ] c
+
+Num | Nome | Nota
+---|---|---
+1|Matheus|8,5
+2|José|10,0
+3|Jackson|2,0
+4|Maria|9,0
